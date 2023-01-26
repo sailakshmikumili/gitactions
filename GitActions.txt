@@ -9,11 +9,23 @@ git config --global user.name "sailakshmi0707@gmail.com"
 git config --global user.email "sailakshmi0707@gmail.com"
 
 Git repo - folder to track all your project/requirement changes. 
-Create a git repo using git init 
+Create a git repo using git init (U symbol can be observed in VS code next to files)
 
 Git commit /Code Snapshot/Commit 
  git add - stages the files 
  git commit - commit the staged files 
+
+Git status 
+ gives the status of the git repo 
+
+Git log 
+ logs all the commits executed 
+
+Git Checkout 
+ temp commit  (M symbol can be observed in VS code next to files)
+
+
+
 
 
 
