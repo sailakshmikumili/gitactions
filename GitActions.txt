@@ -21,8 +21,17 @@ Git status
 Git log 
  logs all the commits executed 
 
-Git Checkout 
+Git Checkout checkout_id
  temp commit  (M symbol can be observed in VS code next to files)
+
+Git checkout branch name 
+ gets the latest commit of the selected branch 
+
+Undo Commit 
+ git revert id - reverts the change committed with the given id 
+
+git reset - removes the changes after specigic id 
+ git reset --hard id 
 
 
 
