@@ -1,0 +1,21 @@
+Git Actions - Tool to automate your workflow. Automation of CICD.(build, test and deploy)
+				Code review and management 
+
+GitHub (company name) - Git is a Version control, code mgmt , automation of CICD 
+
+Setting up user and email after git installation 
+
+git config --global user.name "sailakshmi0707@gmail.com"
+git config --global user.email "sailakshmi0707@gmail.com"
+
+Git repo - folder to track all your project/requirement changes. 
+Create a git repo using git init 
+
+Git commit /Code Snapshot/Commit 
+ git add - stages the files 
+ git commit - commit the staged files 
+
+
+
+
+
